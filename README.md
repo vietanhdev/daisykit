@@ -1,3 +1,7 @@
+# ! Moved here <https://github.com/nrl-ai/daisykit>
+
+This repository was moved to <https://github.com/nrl-ai/daisykit> because DaisyLab was renamed to NeuralResearchLab. Please go to the new repository for the latest updates.
+
 # Daisykit - **D.A.I.S.Y: Deploy AI Systems Yourself!**
 
 [![PyPI](https://img.shields.io/pypi/v/daisykit)](https://pypi.org/project/daisykit)
